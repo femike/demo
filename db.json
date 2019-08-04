@@ -1,9 +1,9 @@
 {
   "printers": [{
-    number: 1,
+    "number": 1,
   },
   {
-    number: 2
+    "number": 2
   }],
   "registration" [{
       "id": 1,

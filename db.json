@@ -5,7 +5,7 @@
   {
     "number": 2
   }],
-  "registration": [{
+  "registration": {
       "id": 1,
       "name": "Leanne Graham",
       "username": "Bret",
@@ -28,7 +28,7 @@
         "catchPhrase": "Multi-layered client-server neural-net",
         "bs": "harness real-time e-markets"
       }
-  }],
+  },
   "articles": [{
       "author_id": 1,
       "id": 1,
